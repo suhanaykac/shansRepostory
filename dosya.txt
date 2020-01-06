@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dal-1 deneme
 =======
 dal-2 deneme
 >>>>>>> dal-2
+=======
+dal-1 deneme  dal-3 ekledim ;P
+>>>>>>> dal-3

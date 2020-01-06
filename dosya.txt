@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dal-1 deneme
+=======
+dal-2 deneme
+>>>>>>> dal-2
